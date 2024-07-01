@@ -1,6 +1,4 @@
-# Earthquake Visualization
-
-Assignment 3 from CSCI-4611: Programming Interactive Computer Graphics and Games, University of Minnesota Twin Cities.  
+# Earthquake Visualization   
 The purpose of this game is about learning to program in 3D graphics using TEXTURE and MORPHING.
 
 ## Recommendation
